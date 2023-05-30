@@ -4,4 +4,9 @@
 - céréales (corn flakes)
 - aluminium
 - papier toilette
+<<<<<<< HEAD
 - sauce tomate
+=======
+- ramen :)
+- pizza :(
+>>>>>>> conflict-branch
