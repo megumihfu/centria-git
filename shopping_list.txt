@@ -1,4 +1,4 @@
-- lait
+- lait/fromage/yaourt
 - courgette
 - riz thai
 - céréales (corn flakes)
